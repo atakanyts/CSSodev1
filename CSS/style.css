@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: #DAD992;
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
+.ortala {
+    text-align: center;
+}
+.Maddeleri-ortala {
+    display:inline-block;
+    text-align: left;
+}
+
+.basliklari-sola {
+    text-align: left;
+
+}
+
+.nav {
+    border: 1px solid black;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color:crimson;
+}
+
+h3 {
+    color: purple;
+}
+
+img {
+    height: 200px;
+    width: 150px;
+}
